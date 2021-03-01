@@ -1,2 +1,3 @@
 # hello-world
-My First Repository
+Hi!
+I am Jeff, owner and CEO of SquareBreaker.
